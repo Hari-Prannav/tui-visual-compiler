@@ -82,9 +82,5 @@ python base_ui.py
 
 | Register No | Name | Core Contributions |
 | --- | --- | --- |
-| **24BCE0659** | Hariprannav S | Lexer & Parser (recursive-descent grammar, panic-mode error recovery, `ErrorNode` synchronization).
-
- |
-| **24BDS0155** | Lavanbarath B | Semantic Analyzer & Symbol Table (scope stack, type checking) + Terminal UI Engine & TAC Generator (Textual panels, live rendering).
-
- |
+| **24BCE0659** | Hariprannav | Lexer & Parser (recursive-descent grammar, panic-mode error recovery, `ErrorNode` synchronization).|
+| **24BDS0155** | Lavanbarath | Semantic Analyzer & Symbol Table (scope stack, type checking) + Terminal UI Engine & TAC Generator (Textual panels, live rendering).|
